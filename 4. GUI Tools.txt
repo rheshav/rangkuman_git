@@ -1,1 +1,3 @@
-Test conflict
+di materi ini diajarkan menggunakan source tree sebagai GUI untuk git
+dijelakan materi2 sebelumnya namun sekarang menggunakan GUI 
+dijelaskan juga conflict solving dengan GUI yang memudahkan user 
