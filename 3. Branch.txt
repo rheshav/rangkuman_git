@@ -1,0 +1,6 @@
+Di Materi ini diajarkan mengenaik branch, mulai dari membuat, merge, hingga solve conflict
+
+merge branch bisa menggunakan
+git merge *namabranch*
+
+jika terjadi conflict harus diselesaikan terlebih dahulu
