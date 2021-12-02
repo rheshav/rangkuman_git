@@ -1,0 +1,13 @@
+Disini saya belajar :
+
+Git init
+Git config
+Git status
+Git add
+Git commit
+Git clone
+Git remote
+Git push
+Git pull
+
+menggunakan terminal
